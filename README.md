@@ -1,1 +1,1 @@
-# GAN-for-CVD
+# Generative Adversarial Networks (GAN) for Color Vision Deficiency (CVD)
